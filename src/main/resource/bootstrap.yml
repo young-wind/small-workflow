@@ -1,0 +1,8 @@
+server:
+  port: 8800
+  servlet:
+    context-path: /workflow
+
+spring:
+  application:
+    name: small-workflow
